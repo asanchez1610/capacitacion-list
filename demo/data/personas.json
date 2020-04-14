@@ -1,0 +1,26 @@
+[
+  {
+      "id": 1,
+      "nombres": "Jose Arturo",
+      "apellidos": "Sanchez Soto",
+      "dni": "41523066",
+      "email": "asanchez.sys@gmail.com",
+      "telefono": "908962121"
+  },
+  {
+      "id": 2,
+      "nombres": "Pruebas",
+      "apellidos": "pruebas",
+      "dni": "123456",
+      "email": "sasasasa@asssa@asas.assa",
+      "telefono": "34356767"
+  },
+  {
+      "id": 3,
+      "nombres": "Juan",
+      "apellidos": "Perez",
+      "dni": "213456",
+      "email": "ewe44ew",
+      "telefono": "dsfdgf"
+  }
+]
